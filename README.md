@@ -1,5 +1,5 @@
 # Arduino ACM1602NI library
-[ACM1602NI-FLW-FBW](http://akizukidenshi.com/catalog/g/gP-05693/) is a 16x2 character LCD module with I2C interface. This library can control them, like the Arduino LiquidCrystal library.
+[ACM1602NI-FLW-FBW](http://akizukidenshi.com/catalog/g/gP-05693/) is a 16x2 character LCD module with I2C interface. This library allow Arduino boards to control them, and is compatible with [the Arduino LiquidCrystal library](https://github.com/arduino-libraries/LiquidCrystal).
 
 ## Installation
 1. Download ZIP from GitHub
