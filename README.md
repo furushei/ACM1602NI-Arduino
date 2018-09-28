@@ -7,8 +7,11 @@
 
 ## Usage
 This library is compatible with LiquidCrystal library, so you can run the examples for LiquidCrystal library with only few changes:
+
  - Change `#include <LiquidCrystal.h>` to `#include <ACM1602NI.h>`
  - Change `LiquidCrystal lcd(...);` to `ACM1602NI lcd;`
+
+[API Reference](https://github.com/furushei/ACM1602NI-Arduino/wiki)
 
 Note: this library calls `Wire.begin` in `ACM1602NI::begin` method, so you don't need to call.
 
